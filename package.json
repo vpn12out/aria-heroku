@@ -15,7 +15,7 @@
 		"dev": "nodemon index.js"
 	},
 	"engines": {
-		"node": "12.x"
+		"node": "16.x"
 	},
 	"description": "Build AriaNG on Heroku, and upload to cloud drive when the file download completed.<br>\r Heroku AriaNG",
 	"repository": {
